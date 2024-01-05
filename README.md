@@ -1,6 +1,6 @@
 Depends on:
-* [https://github.com/jbrogers63/jakarta-ee-parent](jbrogers63/jakarta-ee-parent)
-* [https://github.com/jbrogers63/parent-pom](jbrogers63/parent-pom) (transitive)
+* [jbrogers63/jakarta-ee-parent](https://github.com/jbrogers63/jakarta-ee-parent)
+* [jbrogers63/parent-pom](https://github.com/jbrogers63/parent-pom) (transitive)
 
 To install:
 
