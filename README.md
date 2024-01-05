@@ -1,3 +1,7 @@
+Depends on:
+* jbrogers63/jakarta-ee-parent
+* jbrogers63/parent-pom (transitive)
+
 To install:
 
 ```
